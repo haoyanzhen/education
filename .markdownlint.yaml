@@ -1,0 +1,5 @@
+{
+  "default": true,
+  # "MD013": {"line_length": 120},  # max length of a line.
+  "MD046": False,           # img should have a alt text ex:![apple](img/apple.png)
+}
